@@ -1,0 +1,45 @@
+img{
+    height: 200px;
+    width: 250px
+}
+#list{
+    display: inline-block;
+    padding: 10px;
+}
+li{
+    list-style-type: none;
+    padding: 5px;
+}
+p,h3{
+    margin: 1px !important;
+}
+h1{
+    text-align: center;
+}
+hr{
+    width: 200px;
+}
+#cart{
+    width: 250px;
+    margin: 10px;
+    border: 1px solid black;
+   
+}
+.songlist{
+    display: inline-block;
+    width: 250px;
+    padding: 0px 5px;
+}
+#center{
+    display: flex;
+    flex-wrap: wrap;
+    margin: 30px;
+}
+#sideA,#sideB,#title{
+    text-align: center;
+}
+#title{
+    padding:15px;
+    color: white;
+    background: maroon;
+}
